@@ -1,0 +1,27 @@
+
+{
+  "Employee":
+{
+  "Comments": "JSON Objects in objects",
+  "Name": "Aashu",
+  "Id": "1",
+  "Status": "Unmarried",
+
+
+  "Comments": "JSON Objects with string",
+  "name": "Abhi",
+  "email": "abhi@gmail.com",
+
+
+  "Comments": "Json Objects with numbers",
+  "id": "2",
+  "Gst": "1234",
+
+  "address":
+{
+  "Place" : "Mohan Garden",
+  "City" : "Delhi"
+}
+}
+}
+
