@@ -1,0 +1,52 @@
+{
+    "DayBeat Response":
+    [
+        {
+
+            "Status" : "completed",
+            "companyName":"RaviStore",
+            "companyPhone":"9876543211",
+            "retailerId" : "012477658",
+            "marketOrderNo":"1234",
+            "Description":"we want to meet for old laptop packaging",
+            "Time":"11-12",
+            "Date":"3-5-23(old date)",
+            "MeetingID": "64as6d54a6sdasd648e"
+            
+
+        },
+
+        {
+            "Status":"Scheduled",
+            "companyName" : "sadikshaEnterprises",
+            "companyPhone":"7894561233",
+            "retailerId" : "321654987",
+            "marketOrderNo":"6542",
+            "Description":"Meeting at old Office",
+            "Time":"12-1.00",
+            "Date":"8-5-23",
+           "MeetingID": "836ad65sa56d5sada6598ew"
+            
+
+        },
+
+        {
+
+            "Status":"Scheduled",
+            "companyName":"Amit PVT LTD",
+            "companyPhone":"6549873211",
+            "retailerId" : "321654987",
+            "marketOrderNo":"5642",
+            "Description":"Meeting for new delivery",
+            "Time":"1.00-2.00",
+            "Date":"8-5-23",
+            "MeetingID": "64re879e46s85w6ww35e"
+            
+            
+
+        }
+
+        
+    ]
+   
+}

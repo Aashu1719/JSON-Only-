@@ -4,31 +4,23 @@
     "1.1 Company History Page After Selecting a Particular Company":
     [
         {
-            "PersonName": "Aashu",
-            "marketOrderNo": "1234",
+            "OrderNo":"1234",
             "Date": "29-5-23",
-            "Time": "11-12",
-            "Address": "R-3/A-350",
-            "MeetingId":"64as6d54a6sdasd648e",
-            "Response":"Redirect Successfully"
+            "Time": "12-1"
+
+            
         }
     ],
+
 
     "1.2 Create a new Report Or History Page":
     [
         {
-            
-            
-            "companyName":"Amit PVT LTD",
-            "companyPhone":"6549873211",
-            "retailerId" : "321654987",
-            "marketOrderNo":"5642",
-            "Description":"Meeting for new delivery",
-            "Time":"1.00-2.00",
+            "Source": "Abc",
+            "PersonName" : "Ravi Store",
+            "OrderNo": "3456",
             "Date":"8-5-23",
-            "Address":"pocket-2/8",
-            "MeetingId": "64as6d54a6sdasd648e",
-            "Response": "Page(Redirect) New Successfully"
+            "Time":"11-12"
         }
     ]
 }

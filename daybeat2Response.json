@@ -1,0 +1,22 @@
+{
+    "RedirectCompleteContextHistory":
+    [
+        {
+            "Redirect": "contextHistoryPage"
+        }
+    ],
+
+    "Reschedule":
+    [
+        {
+            "Message": "Scheduled"
+        }
+    ], 
+
+    "ScheduledHistory":
+    [
+        {
+            "Redirect": "contextHistoryPage"
+        }
+    ]
+}

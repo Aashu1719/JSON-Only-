@@ -1,101 +1,21 @@
 {
-    "Date": "8-5-23",
-    "Status": true,
-    "Comment":"Status Detailed",
-
     "DayBeat Modules":
-    [
-        {
-
-            "Status" : "completed",
-            "companyName":"RaviStore",
-            "companyPhone":"9876543211",
-            "retailerId" : "012477658",
-            "marketOrderNo":"1234",
-            "Description":"we want to meet for old laptop packaging",
-            "Time":"11-12",
-            "Date":"3-5-23(old date)",
-            "contextHistory":"Page(Redirect)"
-
-        },
-
-        {
-            "Status":"Scheduled",
-            "companyName" : "sadikshaEnterprises",
-            "companyPhone":"7894561233",
-            "retailerId" : "321654987",
-            "marketOrderNo":"6542",
-            "Description":"Meeting at old Office",
-            "Time":"12-1.00",
-            "Date":"8-5-23",
-            "Address":"r-1/a4-1",
-            "contextHistory":"Page(Redirect)"
-            
-
-        },
-
-        {
-
-            "Status":"Scheduled",
-            "companyName":"Amit PVT LTD",
-            "companyPhone":"6549873211",
-            "retailerId" : "321654987",
-            "marketOrderNo":"5642",
-            "Description":"Meeting for new delivery",
-            "Time":"1.00-2.00",
-            "Date":"8-5-23",
-            "Address":"pocket-2/8",
-            "contextHistory":"Page(Redirect)"
-            
-
-        }
-
-        
-    ],
-
-    "UserThreeTasks":
-    [
-        {
-            "Comment": "User will do this three task here contextHistory(comp), Reschedule(sch), contextHistory(sch)",
-            "First": "See contextHistory Page",
-            "Status": "completed",
-            "companyName":"Amit PVT LTD",
-            "companyPhone":"6549873211",
-            "retailerId" : "321654987",
-            "marketOrderNo":"5642",
-            "Description":"Meeting for new delivery",
-            "Time":"1.00-2.00",
-            "Date":"8-5-23",
-            "Address":"pocket-2/8",
-            "MeetingId": "64as6d54a6sdasd648e",
-            "contextHistory": "Page(Redirect) Successfully",
-
-            "Second":"Reschedule",
-            "Status" : "completed",
-            "companyName":"RaviStore",
-            "companyPhone":"9876543211",
-            "retailerId" : "012477658",
-            "marketOrderNo":"1234",
-            "Description":"we want to meet for old laptop packaging",
-            "Time":"11-12",
-            "Date":"3-5-23(old date)",
-            "MeetingId": "64as6d54a6sdasd648e",
-            "Message": "Scheduled Successfully",
+ 
+[
+    {
+    "Date": "8-5-23",
+    "Comment":"Status Detailed"
     
-            
-            "Third": "Scheduled contextHistoryPage",
-            "Status":"Scheduled",
-            "companyName":"Amit PVT LTD",
-            "companyPhone":"6549873211",
-            "retailerId" : "321654987",
-            "marketOrderNo":"5642",
-            "Description":"Meeting for new delivery",
-            "Time":"1.00-2.00",
-            "Date":"8-5-23",
-            "Address":"pocket-2/8",
-            "MeetingId":"64re879e46s85w6ww35e",
-            "contextHistory":"Page(Redirect)"
-        }
-    ]
+    }   
+],
+
+"DayBeat Modules 2":
+[
+    {
+        "Date": "14-5-23",
+    "Comment":"Status Detailed"
+    
+    }
+]
 
 }
